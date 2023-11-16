@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+
+
+#ab{
+	height:180px;
+	width:320px;
+	display:inline-block;
+}
+
+#abc{
+	display:inline-block;
+}
+#az{
+	background-color:red;
+	border-radius:5px;
+	
+}
